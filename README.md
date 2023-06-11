@@ -1,3 +1,3 @@
-# stefan-brenner.github.io2
+# stefan-brenner.github.io
 ## test1
 ### test 2
