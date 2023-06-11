@@ -1,9 +1,9 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>404</h1>
 
-<p>My first paragraph.</p>
+<p>Error</p>
 
 </body>
 </html>
